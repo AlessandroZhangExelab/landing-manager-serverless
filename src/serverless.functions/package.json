@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@hubspot/api-client": "^11.1.0",
+    "axios": "^1.6.8"
+  }
+}

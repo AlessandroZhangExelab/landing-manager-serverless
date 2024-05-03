@@ -1,0 +1,8 @@
+{
+  "appFunctions": {
+    "sendForm": {
+      "file": "sendForm.js",
+      "secrets": ["API_KEY", "BASE_URL"]
+    }
+  }
+}
